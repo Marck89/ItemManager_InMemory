@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RTLQEMmRmcfNwuTJgHqH9W9lmnmJH7cCUDTNgwnfPfQ=",
+  "Source": "ItemManagerInMemory",
+  "BasePath": "_content/ItemManagerInMemory",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
